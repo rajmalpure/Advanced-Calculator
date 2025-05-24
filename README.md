@@ -28,8 +28,9 @@ A powerful, feature-rich console-based **C++ calculator** designed for advanced 
 ```bash
 g++ -o calculator calculator.cpp -std=c++11
 ./calculator
-
+```
 ---
+Sample Usage
 
 Choose option 1 for basic operations
 Enter first number: 25
