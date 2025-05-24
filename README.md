@@ -1,7 +1,6 @@
 # 🧮 Advanced Calculator
 
 [![C++](https://img.shields.io/badge/C++-17-blue.svg)](https://isocpp.org/)  
-[![License](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 
 A powerful, feature-rich console-based **C++ calculator** designed for advanced mathematical computations including complex expressions, scientific functions, and memory operations.
 
