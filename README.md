@@ -31,7 +31,7 @@ g++ -o calculator calculator.cpp -std=c++11
 ```
 ---
 Sample Usage
-
+```
 Choose option 1 for basic operations
 Enter first number: 25
 Enter operator (+, -, *, /, ^): ^
@@ -41,4 +41,4 @@ Result: 5.000000
 Choose option 11 for expression evaluation
 Enter expression: (2+3)*4^2-10
 Result: 70.000000
-
+```
